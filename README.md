@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+# Project Description: MovieAdda
+
+MovieAdda is a web application developed using React.js that provides users with access to comprehensive information about various movies. With MovieAdda, users can easily search for movies, view details such as plot summaries, cast and crew information, ratings, release dates, and more. The application utilizes an API to fetch data dynamically, ensuring that users have access to up-to-date information about their favorite movies.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
